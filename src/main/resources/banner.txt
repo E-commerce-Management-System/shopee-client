@@ -1,10 +1,21 @@
 
- ${AnsiColor.GREEN}      ██╗${AnsiColor.BLUE} ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ████${AnsiColor.GREEN}███╗
- ${AnsiColor.GREEN}      ██║ ██║ ${AnsiColor.BLUE}  ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔══${AnsiColor.GREEN}═══╝ ██╔═══██╗
- ${AnsiColor.GREEN}      ██║ ████████║${AnsiColor.BLUE}    ██║    ███████╔╝ ╚█████╗     ██║   ${AnsiColor.GREEN} ██████╗   ███████╔╝
- ${AnsiColor.GREEN}██╗   ██║ ██╔═══██║    ██║   ${AnsiColor.BLUE} ██╔════╝   ╚═══██╗    ${AnsiColor.GREEN}██║    ██╔═══╝   ██╔══██║
- ${AnsiColor.GREEN}╚██████╔╝ ██║   ██║ ████████╗ ██║ ${AnsiColor.BLUE}      ██████${AnsiColor.GREEN}╔╝    ██║    ████████╗ ██║  ╚██╗
- ${AnsiColor.GREEN} ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝      ${AnsiColor.BLUE} ╚═${AnsiColor.GREEN}════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
+ ${AnsiColor.GREEN}      ██╗${AnsiColor.RED} ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
+ ${AnsiColor.GREEN}      ██║${AnsiColor.RED} ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
+ ${AnsiColor.GREEN}      ██║${AnsiColor.RED} ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
+ ${AnsiColor.GREEN}██╗   ██║${AnsiColor.RED} ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
+ ${AnsiColor.GREEN}╚██████╔╝${AnsiColor.RED} ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
+ ${AnsiColor.GREEN} ╚═════╝ ${AnsiColor.RED} ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
 
-${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} :: Startup profile(s) ${spring.profiles.active} ::
+${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
 :: https://www.jhipster.tech ::${AnsiColor.DEFAULT}
+
+ ${AnsiColor.BRIGHT_BLUE}███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗███████╗
+ ${AnsiColor.BLUE}██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝██╔════╝
+ ${AnsiColor.BRIGHT_BLUE}███████╗███████║██║   ██║██████╔╝█████╗  █████╗
+ ${AnsiColor.BRIGHT_CYAN}╚════██║██╔══██║██║   ██║██╔═══╝ ██╔══╝  ██╔══╝
+ ${AnsiColor.BRIGHT_WHITE}███████║██║  ██║╚██████╔╝██║     ███████╗███████╗
+ ${AnsiColor.BRIGHT_WHITE}╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝
+
+${AnsiColor.BRIGHT_GREEN}:: SEA Limited ::${AnsiColor.DEFAULT}
+${AnsiColor.BRIGHT_CYAN}Copyright (c) 2025 SEA Limited and/or its affiliates.
+All rights reserved.${AnsiColor.DEFAULT}
