@@ -1,0 +1,6 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.shopee.client.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.shopee.client.config.\
+    TestContainersSpringContextCustomizerFactory,com.shopee.client.config.\
+    RedisTestContainersSpringContextCustomizerFactory,com.shopee.client.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
